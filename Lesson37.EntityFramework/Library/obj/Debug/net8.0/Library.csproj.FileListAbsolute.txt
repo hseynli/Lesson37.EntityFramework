@@ -1,0 +1,14 @@
+E:\Projects\VsProjects\Lesson37.EntityFramework\Library\bin\Debug\net8.0\Library.deps.json
+E:\Projects\VsProjects\Lesson37.EntityFramework\Library\bin\Debug\net8.0\Library.runtimeconfig.json
+E:\Projects\VsProjects\Lesson37.EntityFramework\Library\bin\Debug\net8.0\Library.dll
+E:\Projects\VsProjects\Lesson37.EntityFramework\Library\bin\Debug\net8.0\Library.pdb
+E:\Projects\VsProjects\Lesson37.EntityFramework\Library\obj\Debug\net8.0\Library.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson37.EntityFramework\Library\obj\Debug\net8.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson37.EntityFramework\Library\obj\Debug\net8.0\Library.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson37.EntityFramework\Library\obj\Debug\net8.0\Library.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson37.EntityFramework\Library\obj\Debug\net8.0\Library.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson37.EntityFramework\Library\obj\Debug\net8.0\Library.dll
+E:\Projects\VsProjects\Lesson37.EntityFramework\Library\obj\Debug\net8.0\refint\Library.dll
+E:\Projects\VsProjects\Lesson37.EntityFramework\Library\obj\Debug\net8.0\Library.pdb
+E:\Projects\VsProjects\Lesson37.EntityFramework\Library\obj\Debug\net8.0\Library.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson37.EntityFramework\Library\obj\Debug\net8.0\ref\Library.dll
