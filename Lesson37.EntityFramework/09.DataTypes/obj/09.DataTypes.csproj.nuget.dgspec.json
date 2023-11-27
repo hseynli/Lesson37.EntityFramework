@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\VsProjects\\Lesson37.EntityFramework\\09.DataTypes\\09.DataTypes.csproj": {}
+    "D:\\Projects\\VS Projects\\Lesson37.EntityFramework\\Lesson37.EntityFramework\\09.DataTypes\\09.DataTypes.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\VsProjects\\Lesson37.EntityFramework\\09.DataTypes\\09.DataTypes.csproj": {
+    "D:\\Projects\\VS Projects\\Lesson37.EntityFramework\\Lesson37.EntityFramework\\09.DataTypes\\09.DataTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\VsProjects\\Lesson37.EntityFramework\\09.DataTypes\\09.DataTypes.csproj",
+        "projectUniqueName": "D:\\Projects\\VS Projects\\Lesson37.EntityFramework\\Lesson37.EntityFramework\\09.DataTypes\\09.DataTypes.csproj",
         "projectName": "09.DataTypes",
-        "projectPath": "E:\\Projects\\VsProjects\\Lesson37.EntityFramework\\09.DataTypes\\09.DataTypes.csproj",
-        "packagesPath": "C:\\Users\\hseyn\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\VsProjects\\Lesson37.EntityFramework\\09.DataTypes\\obj\\",
+        "projectPath": "D:\\Projects\\VS Projects\\Lesson37.EntityFramework\\Lesson37.EntityFramework\\09.DataTypes\\09.DataTypes.csproj",
+        "packagesPath": "C:\\Users\\farid.huseynli\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\VS Projects\\Lesson37.EntityFramework\\Lesson37.EntityFramework\\09.DataTypes\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\hseyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\farid.huseynli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Projects\\VsProjects\\Lesson37.EntityFramework\\Library\\Library.csproj": {
-                "projectPath": "E:\\Projects\\VsProjects\\Lesson37.EntityFramework\\Library\\Library.csproj"
+              "D:\\Projects\\VS Projects\\Lesson37.EntityFramework\\Lesson37.EntityFramework\\Library\\Library.csproj": {
+                "projectPath": "D:\\Projects\\VS Projects\\Lesson37.EntityFramework\\Lesson37.EntityFramework\\Library\\Library.csproj"
               }
             }
           }
@@ -74,17 +79,21 @@
         }
       }
     },
-    "E:\\Projects\\VsProjects\\Lesson37.EntityFramework\\Library\\Library.csproj": {
+    "D:\\Projects\\VS Projects\\Lesson37.EntityFramework\\Lesson37.EntityFramework\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\VsProjects\\Lesson37.EntityFramework\\Library\\Library.csproj",
+        "projectUniqueName": "D:\\Projects\\VS Projects\\Lesson37.EntityFramework\\Lesson37.EntityFramework\\Library\\Library.csproj",
         "projectName": "Library",
-        "projectPath": "E:\\Projects\\VsProjects\\Lesson37.EntityFramework\\Library\\Library.csproj",
-        "packagesPath": "C:\\Users\\hseyn\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\VsProjects\\Lesson37.EntityFramework\\Library\\obj\\",
+        "projectPath": "D:\\Projects\\VS Projects\\Lesson37.EntityFramework\\Lesson37.EntityFramework\\Library\\Library.csproj",
+        "packagesPath": "C:\\Users\\farid.huseynli\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\VS Projects\\Lesson37.EntityFramework\\Lesson37.EntityFramework\\Library\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\hseyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\farid.huseynli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -92,6 +101,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
